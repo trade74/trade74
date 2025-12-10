@@ -1,2 +1,2 @@
 ## Github profile for Stuart Russell 
-Senior Filemaker systems architect / Full stack web developer
+Senior FileMaker Systems Architect & Full-Stack Web Developer
